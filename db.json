@@ -1,0 +1,37 @@
+{
+    "reports": [
+        {
+            "id": 1,
+            "name": "One",
+            "description": "One Description",
+            "owner": "Owner One",
+            "image_url": "string",
+            "views": 1,
+            "number_of_comments": 1,
+            "stars": 1,
+            "tags": "One Tags"
+        },
+        {
+            "id": 2,
+            "name": "Two",
+            "description": "Two Description",
+            "owner": "Owner Two",
+            "image_url": "string",
+            "views":2,
+            "number_of_comments":2,
+            "stars":2,
+            "tags": "Two Tags"
+        },
+        {
+            "id": 3,
+            "name": "Three",
+            "description": "Three Description",
+            "owner": "Owner Three",
+            "image_url": "string",
+            "views": 3,
+            "number_of_comments": 3,
+            "stars": 3,
+            "tags": "Three Tags"
+        }
+    ]
+}
